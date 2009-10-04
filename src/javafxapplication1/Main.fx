@@ -1,4 +1,13 @@
-/*
+/**
+ *
+ * (c) Sergey Mashkov (aka cy6erGn0m), 2009
+ *
+ * License: GNU LGPL v3
+ * To read license read lgpl-3.0.txt from root of repository or follow URL:
+ *      http://www.gnu.org/licenses/lgpl-3.0.txt
+ *
+ */
+ /*
  * Main.fx
  *
  * Created on 28.09.2009, 1:27:16
@@ -11,7 +20,6 @@ import javafx.scene.Scene;
 import javafx.scene.text.Text;
 import javafx.scene.text.Font;
 import javafx.scene.control.Button;
-import javafxapplication1.TestItNow;
 import cy6erGn0m.player.fx.Player;
 import javafx.scene.control.TextBox;
 import javafx.scene.control.Slider;
